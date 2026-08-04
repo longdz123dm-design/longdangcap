@@ -611,9 +611,9 @@ scene.add(planet);
 
 // ---- TẠO CÁC VÒNG CHỮ QUAY QUANH HÀNH TINH ----
 const ringTexts = [
-  'A1K21',
+  'Cảm ơn vì tất cả',
   "THPT Trần Phú Thái Nguyên",
-  "Tạo bởi Hoàng Long",
+  "Hoàng Long",
   "05/04/2026",
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
